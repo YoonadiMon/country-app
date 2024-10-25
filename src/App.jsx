@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import brightness from './assets/brightness.png'
-import './App.css'
 import CountryArea from './CountryArea';
 
 function App() {
